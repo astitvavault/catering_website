@@ -142,7 +142,7 @@
       {
         "id": "exp-beverages",
         "title": "Tiffin Service",
-        "image": "/public/assets/food.jpg",
+        "image": "/assets/food.jpg",
         "description": "Enjoy fresh, homemade-style meals delivered straight to your door with Swaad Catering’s Tiffin Services. Perfect for students, professionals, and families, our daily meals are prepared with fresh ingredients, authentic flavours, and the comfort of ghar ka swaad.",
         "examples": [
           "Daily Tiffin",
