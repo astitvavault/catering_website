@@ -1,0 +1,836 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/591399942",
+    "searchQuery": "elegant Indian cuisine buffet spread luxury catering gold dishes presentation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2249992815"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:28.508Z",
+    "lastUpdated": "2026-07-13T04:44:56.275Z",
+    "gettyId": "591399942",
+    "alternativeGettyIds": [
+      "2249992815"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,dramatic",
+    "minimumSize": "x_large"
+  },
+  "pages/home/about-preview": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1409730000",
+    "searchQuery": "Indian catering chef professional kitchen food preparation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/616904550",
+      "https://img1.wsimg.com/isteam/getty/2277661571",
+      "https://img1.wsimg.com/isteam/getty/2238627449"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:30.082Z",
+    "lastUpdated": "2026-07-13T04:16:30.082Z",
+    "gettyId": "1409730000",
+    "alternativeGettyIds": [
+      "616904550",
+      "2277661571",
+      "2238627449"
+    ],
+    "orientations": "vertical",
+    "moods": "warm"
+  },
+  "pages/home/cuisine-indian": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1451340656",
+    "searchQuery": "authentic Indian cuisine food spread biryani curry elegant presentation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1068485138",
+      "https://img1.wsimg.com/isteam/getty/1173168293",
+      "https://img1.wsimg.com/isteam/getty/1408808700"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:31.916Z",
+    "lastUpdated": "2026-07-13T04:16:31.916Z",
+    "gettyId": "1451340656",
+    "alternativeGettyIds": [
+      "1068485138",
+      "1173168293",
+      "1408808700"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/home/cuisine-chinese": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2252139429",
+    "searchQuery": "Hakka Chinese cuisine noodles elegant restaurant food",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1319841389",
+      "https://img1.wsimg.com/isteam/getty/1469671004",
+      "https://img1.wsimg.com/isteam/getty/1414430314"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:34.905Z",
+    "lastUpdated": "2026-07-13T04:16:34.905Z",
+    "gettyId": "2252139429",
+    "alternativeGettyIds": [
+      "1319841389",
+      "1469671004",
+      "1414430314"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/home/cuisine-live-station": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1428264670",
+    "searchQuery": "live cooking station tandoor chef catering event",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2283525098",
+      "https://img1.wsimg.com/isteam/getty/2280343637",
+      "https://img1.wsimg.com/isteam/getty/2182246729"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:36.309Z",
+    "lastUpdated": "2026-07-13T04:16:36.309Z",
+    "gettyId": "1428264670",
+    "alternativeGettyIds": [
+      "2283525098",
+      "2280343637",
+      "2182246729"
+    ],
+    "orientations": "square"
+  },
+  "pages/home/cuisine-bbq": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1246473695",
+    "searchQuery": "BBQ tandoor grilled Indian food catering outdoor",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2226247011",
+      "https://img1.wsimg.com/isteam/getty/2069270035",
+      "https://img1.wsimg.com/isteam/getty/1401117768"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:38.239Z",
+    "lastUpdated": "2026-07-13T04:16:38.239Z",
+    "gettyId": "1246473695",
+    "alternativeGettyIds": [
+      "2226247011",
+      "2069270035",
+      "1401117768"
+    ],
+    "orientations": "square"
+  },
+  "pages/home/cuisine-vegetarian": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1183764181",
+    "searchQuery": "Indian vegetarian food spread paneer dal elegant presentation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1451340656",
+      "https://img1.wsimg.com/isteam/getty/997585020"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:41.654Z",
+    "lastUpdated": "2026-07-13T04:16:41.654Z",
+    "gettyId": "1183764181",
+    "alternativeGettyIds": [
+      "1451340656",
+      "997585020"
+    ],
+    "orientations": "square",
+    "moods": "vivid,warm"
+  },
+  "pages/home/cuisine-desserts": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1404666871",
+    "searchQuery": "Indian desserts sweets gulab jamun elegant dessert display",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2212928422",
+      "https://img1.wsimg.com/isteam/getty/1709052517"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:42.622Z",
+    "lastUpdated": "2026-07-13T04:16:42.622Z",
+    "gettyId": "1404666871",
+    "alternativeGettyIds": [
+      "2212928422",
+      "1709052517"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/home/event-wedding": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2240891819",
+    "searchQuery": "Indian wedding reception elegant banquet hall decoration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1015802484",
+      "https://img1.wsimg.com/isteam/getty/2284022186",
+      "https://img1.wsimg.com/isteam/getty/2269430509"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:44.677Z",
+    "lastUpdated": "2026-07-13T04:16:44.677Z",
+    "gettyId": "2240891819",
+    "alternativeGettyIds": [
+      "1015802484",
+      "2284022186",
+      "2269430509"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,dramatic"
+  },
+  "pages/home/event-corporate": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2265730355",
+    "searchQuery": "corporate catering business lunch event professional setup",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/474835872",
+      "https://img1.wsimg.com/isteam/getty/2204827878",
+      "https://img1.wsimg.com/isteam/getty/1439530238"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:45.956Z",
+    "lastUpdated": "2026-07-13T04:16:45.956Z",
+    "gettyId": "2265730355",
+    "alternativeGettyIds": [
+      "474835872",
+      "2204827878",
+      "1439530238"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/event-birthday": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1347910279",
+    "searchQuery": "birthday celebration party catering elegant food setup",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2264731137",
+      "https://img1.wsimg.com/isteam/getty/2231175339",
+      "https://img1.wsimg.com/isteam/getty/2198628605"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:47.106Z",
+    "lastUpdated": "2026-07-13T04:16:47.106Z",
+    "gettyId": "1347910279",
+    "alternativeGettyIds": [
+      "2264731137",
+      "2231175339",
+      "2198628605"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,vivid"
+  },
+  "pages/home/event-festival": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2271533907",
+    "searchQuery": "Indian festival cultural celebration food catering colorful",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2257950697",
+      "https://img1.wsimg.com/isteam/getty/2232623653",
+      "https://img1.wsimg.com/isteam/getty/2278690336"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:47.644Z",
+    "lastUpdated": "2026-07-13T04:16:47.644Z",
+    "gettyId": "2271533907",
+    "alternativeGettyIds": [
+      "2257950697",
+      "2232623653",
+      "2278690336"
+    ],
+    "orientations": "horizontal",
+    "moods": "vivid,warm"
+  },
+  "pages/home/event-private": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2269430509",
+    "searchQuery": "private party catering elegant dinner table setup luxury",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1015802484",
+      "https://img1.wsimg.com/isteam/getty/1010191776"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:47.993Z",
+    "lastUpdated": "2026-07-13T04:16:47.993Z",
+    "gettyId": "2269430509",
+    "alternativeGettyIds": [
+      "1015802484",
+      "1010191776"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,dramatic"
+  },
+  "pages/home/event-outdoor": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1400672365",
+    "searchQuery": "outdoor catering event garden wedding food setup",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2141671532",
+      "https://img1.wsimg.com/isteam/getty/2166245888",
+      "https://img1.wsimg.com/isteam/getty/2162454247"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:49.551Z",
+    "lastUpdated": "2026-07-13T04:16:49.551Z",
+    "gettyId": "1400672365",
+    "alternativeGettyIds": [
+      "2141671532",
+      "2166245888",
+      "2162454247"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,natural"
+  },
+  "pages/home/gallery-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2155483762",
+    "searchQuery": "Indian buffet spread elegant catering presentation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2242967483",
+      "https://img1.wsimg.com/isteam/getty/2198628605"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:50.191Z",
+    "lastUpdated": "2026-07-13T04:16:50.191Z",
+    "gettyId": "2155483762",
+    "alternativeGettyIds": [
+      "2242967483",
+      "2198628605"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "pages/home/gallery-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1897017039",
+    "searchQuery": "wedding catering table setup flowers decoration food",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2265676089",
+      "https://img1.wsimg.com/isteam/getty/598553088"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:51.049Z",
+    "lastUpdated": "2026-07-13T04:16:51.049Z",
+    "gettyId": "1897017039",
+    "alternativeGettyIds": [
+      "2265676089",
+      "598553088"
+    ],
+    "orientations": "vertical",
+    "moods": "warm,dramatic"
+  },
+  "pages/home/gallery-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1311788877",
+    "searchQuery": "Indian spices herbs aromatic ingredients cooking",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/508296805",
+      "https://img1.wsimg.com/isteam/getty/927760518"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:51.287Z",
+    "lastUpdated": "2026-07-13T04:16:51.287Z",
+    "gettyId": "1311788877",
+    "alternativeGettyIds": [
+      "508296805",
+      "927760518"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/home/gallery-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1439521744",
+    "searchQuery": "live cooking station chef catering event professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1221433673",
+      "https://img1.wsimg.com/isteam/getty/1495307898"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:52.627Z",
+    "lastUpdated": "2026-07-13T04:16:52.627Z",
+    "gettyId": "1439521744",
+    "alternativeGettyIds": [
+      "1221433673",
+      "1495307898"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/gallery-5": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2212928422",
+    "searchQuery": "Indian dessert display sweets elegant presentation catering",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1404666871",
+      "https://img1.wsimg.com/isteam/getty/1709052517"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:54.171Z",
+    "lastUpdated": "2026-07-13T04:16:54.171Z",
+    "gettyId": "2212928422",
+    "alternativeGettyIds": [
+      "1404666871",
+      "1709052517"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/home/gallery-6": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1015802484",
+    "searchQuery": "elegant outdoor wedding reception catering setup luxury",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2269430509",
+      "https://img1.wsimg.com/isteam/getty/2240891819"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:54.692Z",
+    "lastUpdated": "2026-07-13T04:16:54.692Z",
+    "gettyId": "1015802484",
+    "alternativeGettyIds": [
+      "2269430509",
+      "2240891819"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,dramatic"
+  },
+  "pages/home/booking-cta": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1010191776",
+    "searchQuery": "luxury catering event setup elegant dinner banquet premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2269430509",
+      "https://img1.wsimg.com/isteam/getty/1015802484"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:16:54.848Z",
+    "lastUpdated": "2026-07-13T04:16:54.848Z",
+    "gettyId": "1010191776",
+    "alternativeGettyIds": [
+      "2269430509",
+      "1015802484"
+    ],
+    "orientations": "horizontal",
+    "moods": "dramatic,warm",
+    "minimumSize": "large"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/49ddc681-dfba-43b0-99d9-69f630e467b6/horizontal-transparent-8a1a24c3-c63b-46d8-bb2c-453030ddbc84/logo-logo.png",
+    "searchQuery": "An elegant luxury catering brand wordmark for SWAAD. The word \"SWAAD\" in a refin",
+    "alternatives": [],
+    "solidUrlMap": {},
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/49ddc681-dfba-43b0-99d9-69f630e467b6/horizontal-transparent-8a1a24c3-c63b-46d8-bb2c-453030ddbc84/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/49ddc681-dfba-43b0-99d9-69f630e467b6/horizontal-mockup-8a1a24c3-c63b-46d8-bb2c-453030ddbc84/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/49ddc681-dfba-43b0-99d9-69f630e467b6/horizontal-transparent-8a1a24c3-c63b-46d8-bb2c-453030ddbc84/logo-logo.png": {
+        "sessionId": "49ddc681-dfba-43b0-99d9-69f630e467b6",
+        "logoId": "8a1a24c3-c63b-46d8-bb2c-453030ddbc84",
+        "groupId": "d290b307-1737-4cd6-bace-ba3f9cdf7f8a"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-07-13T04:17:03.848Z",
+    "lastUpdated": "2026-07-13T04:17:51.739Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#1A0A0A",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/49ddc681-dfba-43b0-99d9-69f630e467b6/horizontal-transparent-8a1a24c3-c63b-46d8-bb2c-453030ddbc84/logo-logo.png",
+    "logoGroupId": "d290b307-1737-4cd6-bace-ba3f9cdf7f8a"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/0d10cedc-4cb5-41eb-992c-4618c30678b5/favicon-transparent-438c68de-1e25-4a5e-be35-836e54bad569/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [
+      "/airo-assets/uploads/airo-logo-shimmer-square.svg"
+    ],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/0d10cedc-4cb5-41eb-992c-4618c30678b5/favicon-transparent-438c68de-1e25-4a5e-be35-836e54bad569/logo-logo.png": {
+        "sessionId": "0d10cedc-4cb5-41eb-992c-4618c30678b5",
+        "logoId": "438c68de-1e25-4a5e-be35-836e54bad569",
+        "groupId": "d290b307-1737-4cd6-bace-ba3f9cdf7f8a"
+      }
+    },
+    "logoGroupId": "d290b307-1737-4cd6-bace-ba3f9cdf7f8a",
+    "userModified": false,
+    "createdAt": "2026-07-13T04:17:31.699Z",
+    "lastUpdated": "2026-07-13T04:17:51.849Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#1A0A0A",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/81971b5e-5754-4bb1-8e32-6462b4c6ae4e/session/0d10cedc-4cb5-41eb-992c-4618c30678b5/favicon-transparent-438c68de-1e25-4a5e-be35-836e54bad569/logo-logo.png"
+  },
+  "pages/menu/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1271562379",
+    "searchQuery": "Indian food spread feast elegant table presentation",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1253232820",
+      "https://img1.wsimg.com/isteam/getty/2284850321"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:36.387Z",
+    "lastUpdated": "2026-07-13T04:27:36.387Z",
+    "gettyId": "1271562379",
+    "alternativeGettyIds": [
+      "1253232820",
+      "2284850321"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,vivid",
+    "minimumSize": "large"
+  },
+  "pages/menu/cat-indian": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1341807927",
+    "searchQuery": "Indian curry biryani dal makhani rich aromatic dish",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1451340656",
+      "https://img1.wsimg.com/isteam/getty/1173168293"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:37.731Z",
+    "lastUpdated": "2026-07-13T04:27:37.731Z",
+    "gettyId": "1341807927",
+    "alternativeGettyIds": [
+      "1451340656",
+      "1173168293"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/menu/cat-chinese": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1144500527",
+    "searchQuery": "Hakka Chinese noodles manchurian Indo-Chinese food",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1690940079",
+      "https://img1.wsimg.com/isteam/getty/1159004213"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:39.144Z",
+    "lastUpdated": "2026-07-13T04:27:39.144Z",
+    "gettyId": "1144500527",
+    "alternativeGettyIds": [
+      "1690940079",
+      "1159004213"
+    ],
+    "orientations": "square",
+    "moods": "vivid"
+  },
+  "pages/menu/cat-live-station": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/665249748",
+    "searchQuery": "live cooking station chef catering event interactive",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1192631074",
+      "https://img1.wsimg.com/isteam/getty/1176594977"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:40.396Z",
+    "lastUpdated": "2026-07-13T04:27:40.396Z",
+    "gettyId": "665249748",
+    "alternativeGettyIds": [
+      "1192631074",
+      "1176594977"
+    ],
+    "orientations": "square"
+  },
+  "pages/menu/cat-bbq": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1030228718",
+    "searchQuery": "tandoor BBQ grilled kebab skewers smoky charcoal",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:40.644Z",
+    "lastUpdated": "2026-07-13T04:27:40.644Z",
+    "gettyId": "1030228718",
+    "orientations": "square",
+    "moods": "dramatic,warm"
+  },
+  "pages/menu/cat-desserts": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1709052517",
+    "searchQuery": "Indian sweets gulab jamun kheer mithai dessert platter",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1451340656",
+      "https://img1.wsimg.com/isteam/getty/1404666871"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:41.540Z",
+    "lastUpdated": "2026-07-13T04:27:41.540Z",
+    "gettyId": "1709052517",
+    "alternativeGettyIds": [
+      "1451340656",
+      "1404666871"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/menu/cat-beverages": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1214778489",
+    "searchQuery": "Indian drinks lassi mango juice refreshing beverages",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:27:42.511Z",
+    "lastUpdated": "2026-07-13T04:27:42.511Z",
+    "gettyId": "1214778489",
+    "orientations": "square",
+    "moods": "vivid"
+  },
+  "pages/about/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2181569961",
+    "searchQuery": "Indian catering team professional kitchen cooking together",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2083036546",
+      "https://img1.wsimg.com/isteam/getty/2231271981"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:32:01.920Z",
+    "lastUpdated": "2026-07-13T04:32:01.920Z",
+    "gettyId": "2181569961",
+    "alternativeGettyIds": [
+      "2083036546",
+      "2231271981"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,vivid",
+    "minimumSize": "large"
+  },
+  "pages/about/story-chef": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2277661571",
+    "searchQuery": "Indian chef cooking spices authentic traditional kitchen",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1409730000",
+      "https://img1.wsimg.com/isteam/getty/2276019755"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:32:03.557Z",
+    "lastUpdated": "2026-07-13T04:32:03.557Z",
+    "gettyId": "2277661571",
+    "alternativeGettyIds": [
+      "1409730000",
+      "2276019755"
+    ],
+    "orientations": "vertical",
+    "moods": "warm"
+  },
+  "pages/about/ingredients": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/475490752",
+    "searchQuery": "premium spices ingredients saffron cardamom aromatic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1311788877",
+      "https://img1.wsimg.com/isteam/getty/508296805"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:32:05.348Z",
+    "lastUpdated": "2026-07-13T04:32:05.348Z",
+    "gettyId": "475490752",
+    "alternativeGettyIds": [
+      "1311788877",
+      "508296805"
+    ],
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/about/events-setup": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1179714494",
+    "searchQuery": "elegant wedding catering banquet table setup decoration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1437353165",
+      "https://img1.wsimg.com/isteam/getty/476981700"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:32:05.776Z",
+    "lastUpdated": "2026-07-13T04:32:05.776Z",
+    "gettyId": "1179714494",
+    "alternativeGettyIds": [
+      "1437353165",
+      "476981700"
+    ],
+    "orientations": "square",
+    "moods": "warm"
+  },
+  "pages/about/team": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1363504021",
+    "searchQuery": "professional catering team service event staff uniform",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:32:07.375Z",
+    "lastUpdated": "2026-07-13T04:32:07.375Z",
+    "gettyId": "1363504021",
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/services/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2264731137",
+    "searchQuery": "elegant catering service banquet hall event setup professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2207766869",
+      "https://img1.wsimg.com/isteam/getty/1369531494"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:11.115Z",
+    "lastUpdated": "2026-07-13T04:35:11.115Z",
+    "gettyId": "2264731137",
+    "alternativeGettyIds": [
+      "2207766869",
+      "1369531494"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,vivid",
+    "minimumSize": "large"
+  },
+  "pages/services/wedding": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1452134248",
+    "searchQuery": "Indian wedding reception catering elegant floral decoration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1456878032",
+      "https://img1.wsimg.com/isteam/getty/2275227347"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:16.015Z",
+    "lastUpdated": "2026-07-13T04:35:16.015Z",
+    "gettyId": "1452134248",
+    "alternativeGettyIds": [
+      "1456878032",
+      "2275227347"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm"
+  },
+  "pages/services/corporate": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1329226871",
+    "searchQuery": "corporate event catering business lunch professional buffet",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2265730355",
+      "https://img1.wsimg.com/isteam/getty/2196331307"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:21.175Z",
+    "lastUpdated": "2026-07-13T04:35:21.175Z",
+    "gettyId": "1329226871",
+    "alternativeGettyIds": [
+      "2265730355",
+      "2196331307"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/services/birthday": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1829241109",
+    "searchQuery": "birthday party celebration catering food table decoration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2253760824",
+      "https://img1.wsimg.com/isteam/getty/2269431979"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:25.895Z",
+    "lastUpdated": "2026-07-13T04:35:25.895Z",
+    "gettyId": "1829241109",
+    "alternativeGettyIds": [
+      "2253760824",
+      "2269431979"
+    ],
+    "orientations": "horizontal",
+    "moods": "vivid"
+  },
+  "pages/services/outdoor": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2162454247",
+    "searchQuery": "outdoor catering event garden party tent setup food",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2259431903",
+      "https://img1.wsimg.com/isteam/getty/2163548276"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:32.378Z",
+    "lastUpdated": "2026-07-13T04:35:32.378Z",
+    "gettyId": "2162454247",
+    "alternativeGettyIds": [
+      "2259431903",
+      "2163548276"
+    ],
+    "orientations": "horizontal",
+    "moods": "natural,warm"
+  },
+  "pages/services/live-station": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1192631074",
+    "searchQuery": "live cooking station chef teppanyaki interactive food event",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/665249748",
+      "https://img1.wsimg.com/isteam/getty/2207485682"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:37.154Z",
+    "lastUpdated": "2026-07-13T04:35:37.154Z",
+    "gettyId": "1192631074",
+    "alternativeGettyIds": [
+      "665249748",
+      "2207485682"
+    ],
+    "orientations": "square",
+    "moods": "dramatic,warm"
+  },
+  "pages/services/tandoor": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1952280894",
+    "searchQuery": "tandoor clay oven kebab grilling smoky Indian BBQ",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1137334765",
+      "https://img1.wsimg.com/isteam/getty/2185140938"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:42.773Z",
+    "lastUpdated": "2026-07-13T04:35:42.773Z",
+    "gettyId": "1952280894",
+    "alternativeGettyIds": [
+      "1137334765",
+      "2185140938"
+    ],
+    "orientations": "square",
+    "moods": "dramatic"
+  },
+  "pages/services/buffet": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1451340656",
+    "searchQuery": "grand buffet spread Indian food catering elegant presentation",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:35:47.765Z",
+    "lastUpdated": "2026-07-13T04:35:47.765Z",
+    "gettyId": "1451340656",
+    "orientations": "square",
+    "moods": "warm,vivid"
+  },
+  "pages/contact/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2249992815",
+    "searchQuery": "Indian catering food spread elegant table setting warm light",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2269430509",
+      "https://img1.wsimg.com/isteam/getty/1010191776"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-13T04:40:26.066Z",
+    "lastUpdated": "2026-07-13T04:40:26.066Z",
+    "gettyId": "2249992815",
+    "alternativeGettyIds": [
+      "2269430509",
+      "1010191776"
+    ],
+    "orientations": "horizontal",
+    "moods": "warm,dramatic"
+  }
+}

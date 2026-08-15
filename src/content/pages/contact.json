@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "eyebrow": "Get in Touch",
+    "headline": "Request a Catering Quote",
+    "subheading": "Tell us about your event and we'll craft a personalised catering proposal within 24 hours."
+  },
+  "info": {
+    "phone": "+1 (905) 324-5299",
+    "whatsapp": "19053245299",
+    "email": "prakhardeep19@gmail.com",
+    "address": "Toronto, Ontario, Canada",
+    "hours": "Mon – Sat: 9:00 AM – 7:00 PM",
+    "responseTime": "We respond to all enquiries within 24 hours."
+  },
+  "form": {
+    "title": "Event Enquiry Form",
+    "subtitle": "Fill in the details below and our team will be in touch shortly.",
+    "eventTypes": [
+      "Wedding",
+      "Corporate Event",
+      "Birthday / Anniversary",
+      "Private Family Gathering",
+      "Festival / Cultural Event",
+      "Outdoor / Destination Event",
+      "Other"
+    ],
+    "submitLabel": "Request a Catering Quote"
+  },
+  "social": {
+    "label": "Follow Us",
+    "links": [
+      {
+        "id": "soc-ig",
+        "platform": "Instagram",
+        "handle": "@swaadcatering",
+        "url": "https://instagram.com/swaadcatering"
+      },
+      {
+        "id": "soc-fb",
+        "platform": "Facebook",
+        "handle": "SWAAD Catering",
+        "url": "https://facebook.com/swaadcatering"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "eyebrow": "Our Story",
+    "headline": "Crafted with Passion, Served with Pride",
+    "subheading": "SWAAD Catering was born from a deep love for authentic flavours and the belief that every celebration deserves extraordinary food."
+  },
+  "story": {
+    "eyebrow": "Who We Are",
+    "headline": "A Legacy of Authentic Flavours",
+    "paragraphs": [
+      "SWAAD — meaning 'taste' in Hindi — is more than a catering company. It is a celebration of India's rich culinary heritage, brought to life at every event we serve. Founded on the principle that food is the heart of every gathering, we have spent years perfecting the art of authentic Indian and Hakka Chinese cuisine.",
+      "Our journey began in a home kitchen, where traditional recipes passed down through generations were cooked with love and shared with family. Today, that same spirit drives every dish we prepare — from the slow-simmered curries to the freshly grilled tandoor kebabs and the bold, spiced Hakka noodles.",
+      "We believe that great catering is not just about the food on the plate — it is about the experience, the presentation, and the memories created around the table. Every event we cater is treated as a personal celebration, and every menu is crafted to reflect the unique vision of our clients."
+    ]
+  },
+  "values": [
+    {
+      "id": "val-1",
+      "icon": "flame",
+      "title": "Authentic Recipes",
+      "description": "Every dish is rooted in time-honoured recipes, prepared with the same care and technique as generations before us."
+    },
+    {
+      "id": "val-2",
+      "icon": "leaf",
+      "title": "Premium Ingredients",
+      "description": "We source only the finest spices, freshest produce, and highest-quality proteins to ensure every bite is exceptional."
+    },
+    {
+      "id": "val-3",
+      "icon": "users",
+      "title": "Professional Team",
+      "description": "Our experienced chefs and service staff bring expertise, warmth, and dedication to every event we cater."
+    },
+    {
+      "id": "val-4",
+      "icon": "star",
+      "title": "Customized Experiences",
+      "description": "No two events are the same. We work closely with every client to craft a bespoke menu and experience tailored to their vision."
+    },
+    {
+      "id": "val-5",
+      "icon": "heart",
+      "title": "Memorable Moments",
+      "description": "We understand that food creates memories. Our mission is to make every meal a moment worth remembering."
+    },
+    {
+      "id": "val-6",
+      "icon": "award",
+      "title": "Uncompromising Quality",
+      "description": "From preparation to presentation, we hold ourselves to the highest standards so your guests experience nothing but the best."
+    }
+  ],
+  "stats": [
+    {
+      "id": "stat-1",
+      "number": "500+",
+      "label": "Events Catered"
+    },
+    {
+      "id": "stat-2",
+      "number": "10+",
+      "label": "Years of Experience"
+    },
+    {
+      "id": "stat-3",
+      "number": "50+",
+      "label": "Menu Items"
+    },
+    {
+      "id": "stat-4",
+      "number": "10,000+",
+      "label": "Happy Guests"
+    }
+  ],
+  "promise": {
+    "eyebrow": "Our Promise",
+    "headline": "Food That Tells a Story",
+    "body": "When you choose SWAAD, you are not just hiring a caterer — you are inviting a team that genuinely cares about your celebration. We bring the same passion, precision, and personal touch to every event, whether it is an intimate family gathering or a grand wedding reception for five hundred guests.",
+    "signature": "The SWAAD Team"
+  },
+  "cta": {
+    "headline": "Ready to Plan Your Event?",
+    "subheading": "Let us create a bespoke culinary experience for your celebration.",
+    "button": "Get in Touch"
+  }
+}

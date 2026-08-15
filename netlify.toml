@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = "dist/client"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# SPA + media redirects are generated into public/_redirects at build time
+# (see airo-media-plugin.ts). Do not add a catch-all here or it can shadow media.
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

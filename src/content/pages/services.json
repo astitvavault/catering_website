@@ -1,0 +1,219 @@
+{
+  "hero": {
+    "eyebrow": "What We Offer",
+    "headline": "Full-Service Catering for Every Occasion",
+    "subheading": "From intimate gatherings to grand celebrations, SWAAD delivers authentic flavours, flawless presentation, and professional service tailored to your event."
+  },
+  "eventTypes": {
+    "eyebrow": "Event Catering",
+    "headline": "Every Celebration, Perfectly Catered",
+    "intro": "We bring the same passion and precision to every event type — whether you are planning a grand wedding, a corporate luncheon, or a private family gathering.",
+    "events": [
+      {
+        "id": "ev-wedding",
+        "title": "Weddings",
+        "tag": "Most Popular",
+        "image": "/airo-assets/images/pages/services/wedding",
+        "description": "Your wedding day deserves nothing short of extraordinary. We craft bespoke wedding menus that honour your heritage, delight your guests, and create memories that last a lifetime. From the welcome drinks to the grand dessert spread, every detail is handled with care.",
+        "highlights": [
+          "Customized multi-course menus",
+          "Live cooking stations",
+          "Traditional & fusion options",
+          "Dedicated event coordinator",
+          "Full setup & breakdown"
+        ]
+      },
+      {
+        "id": "ev-corporate",
+        "title": "Corporate Events",
+        "tag": "Professional",
+        "image": "/airo-assets/images/pages/services/corporate",
+        "description": "Impress clients, reward your team, and elevate your corporate events with SWAAD's professional catering. We handle everything from boardroom lunches and product launches to large-scale annual conferences — always on time, always exceptional.",
+        "highlights": [
+          "Breakfast, lunch & dinner packages",
+          "Branded presentation options",
+          "Dietary accommodations",
+          "Flexible portion sizes",
+          "Punctual setup & service"
+        ]
+      },
+      {
+        "id": "ev-birthday",
+        "title": "Birthdays & Anniversaries",
+        "tag": "Celebrations",
+        "image": "/airo-assets/images/pages/services/birthday",
+        "description": "Make every milestone unforgettable with a feast crafted around the guest of honour. Whether it is a milestone birthday, a silver anniversary, or a surprise party, we design menus that reflect the personality and preferences of the person being celebrated.",
+        "highlights": [
+          "Themed menu options",
+          "Custom dessert stations",
+          "Cocktail & mocktail service",
+          "Flexible guest counts",
+          "Personalised touches"
+        ]
+      },
+      {
+        "id": "ev-private",
+        "title": "Private & Family Gatherings",
+        "tag": "Intimate",
+        "image": "/airo-assets/images/pages/services/outdoor",
+        "description": "Some of the most meaningful celebrations happen at home. Our private catering service brings restaurant-quality food and professional service to your home, garden, or private venue — so you can be fully present with your loved ones.",
+        "highlights": [
+          "Home & garden catering",
+          "Small to large groups",
+          "Full service or drop-off options",
+          "Traditional home-style recipes",
+          "Flexible scheduling"
+        ]
+      },
+      {
+        "id": "ev-festival",
+        "title": "Festivals & Cultural Events",
+        "tag": "Cultural",
+        "image": "/airo-assets/images/pages/services/hero",
+        "description": "Celebrate Diwali, Navratri, Eid, Christmas, and every cultural occasion with authentic food that honours tradition. Our festival menus are crafted to reflect the spirit of each celebration, with dishes that bring communities together.",
+        "highlights": [
+          "Festival-specific menus",
+          "Traditional recipes",
+          "Large-scale capacity",
+          "Vegetarian & non-veg options",
+          "Themed presentation"
+        ]
+      },
+      {
+        "id": "ev-outdoor",
+        "title": "Outdoor & Destination Events",
+        "tag": "Adventurous",
+        "image": "/airo-assets/images/pages/services/outdoor",
+        "description": "From garden parties and rooftop celebrations to destination events and outdoor weddings, SWAAD's mobile catering team brings the full kitchen experience to any location. We handle all logistics so you can focus on the celebration.",
+        "highlights": [
+          "Mobile kitchen setup",
+          "Remote location capability",
+          "Weather-contingency planning",
+          "Full equipment provided",
+          "Experienced outdoor team"
+        ]
+      }
+    ]
+  },
+  "experiences": {
+    "eyebrow": "Food Experiences",
+    "headline": "Beyond the Buffet",
+    "intro": "Elevate your event with immersive food experiences that entertain and delight your guests.",
+    "items": [
+      {
+        "id": "exp-live",
+        "title": "Live Cooking Stations",
+        "image": "/airo-assets/images/pages/services/live-station",
+        "description": "Our live stations transform dining into theatre. Guests watch skilled chefs prepare dishes to order — from fresh dosas and pani puri to stir-fries and pasta. Interactive, engaging, and utterly delicious.",
+        "examples": [
+          "Dosa & Chaat Station",
+          "Pani Puri Counter",
+          "Stir-Fry Wok Station",
+          "Pasta Station",
+          "Kulfi & Dessert Bar"
+        ]
+      },
+      {
+        "id": "exp-bbq",
+        "title": "BBQ & Tandoor",
+        "image": "/airo-assets/images/pages/services/tandoor",
+        "description": "Our traditional clay tandoor and charcoal BBQ setup is a showstopper at any event. Guests gather around the grill as our chefs produce perfectly charred kebabs, tikkas, and naans fresh from the fire.",
+        "examples": [
+          "Chicken & Paneer Tikka",
+          "Seekh Kebabs",
+          "Tandoori Prawns",
+          "Fresh Naan & Roti",
+          "Smoky BBQ Skewers"
+        ]
+      },
+      {
+        "id": "exp-buffet",
+        "title": "Grand Buffet Service",
+        "image": "/airo-assets/images/pages/services/buffet",
+        "description": "Our signature buffet service combines abundance with elegance. Beautifully presented spreads of Indian and Chinese dishes, thoughtfully arranged and continuously replenished by our attentive service team.",
+        "examples": [
+          "Multi-cuisine spreads",
+          "Chafing dish service",
+          "Continuous replenishment",
+          "Elegant presentation",
+          "Dietary labelling"
+        ]
+      },
+      {
+        "id": "exp-beverages",
+        "title": "Tiffin Service",
+        "image": "/public/assets/food.jpg",
+        "description": "Enjoy fresh, homemade-style meals delivered straight to your door with Swaad Catering’s Tiffin Services. Perfect for students, professionals, and families, our daily meals are prepared with fresh ingredients, authentic flavours, and the comfort of ghar ka swaad.",
+        "examples": [
+          "Daily Tiffin",
+          "Home Style Meals",
+          "Fresh Cooking",
+          "Veg Options",
+          "Non-Veg Options",
+          "Custom Meals",
+          "Weekly Plans"
+        ]
+      }
+    ]
+  },
+  "cuisines": {
+    "eyebrow": "Cuisine Options",
+    "headline": "Two Great Culinary Traditions",
+    "indian": {
+      "title": "Authentic Indian Cuisine",
+      "description": "From the rich gravies of North India to the aromatic rice dishes of the South, our Indian menu spans the full breadth of the subcontinent's culinary heritage. Every dish is prepared using traditional techniques and the finest whole spices.",
+      "categories": [
+        "North Indian Curries & Gravies",
+        "Biryani & Rice Dishes",
+        "Tandoor Breads & Kebabs",
+        "South Indian Specialties",
+        "Vegetarian Delicacies",
+        "Street Food & Chaat"
+      ]
+    },
+    "chinese": {
+      "title": "Hakka Chinese Cuisine",
+      "description": "Bold, spiced, and deeply satisfying — our Hakka Chinese menu brings the beloved Indo-Chinese flavours that have become a staple of Indian celebrations. Wok-tossed noodles, crispy manchurian, and fiery schezwan dishes prepared fresh.",
+      "categories": [
+        "Hakka Noodles & Fried Rice",
+        "Manchurian & Chilli Dishes",
+        "Soups & Starters",
+        "Schezwan Specialties",
+        "Crispy Appetisers",
+        "Vegetarian & Non-Veg Options"
+      ]
+    }
+  },
+  "corporate": {
+    "eyebrow": "Corporate Solutions",
+    "headline": "Catering That Works as Hard as You Do",
+    "body": "We understand that corporate events demand reliability, professionalism, and flexibility. SWAAD offers dedicated corporate catering packages designed for businesses of all sizes — from daily office lunches to large-scale annual events. Our team coordinates directly with your event manager to ensure seamless execution every time.",
+    "features": [
+      {
+        "id": "corp-1",
+        "title": "Recurring Office Catering",
+        "desc": "Weekly or monthly catering packages for team lunches, town halls, and office celebrations."
+      },
+      {
+        "id": "corp-2",
+        "title": "Conference & Seminar Catering",
+        "desc": "Full-day catering packages with breakfast, lunch, tea breaks, and evening receptions."
+      },
+      {
+        "id": "corp-3",
+        "title": "Product Launch Events",
+        "desc": "Impressive food presentations that complement your brand and impress your guests."
+      },
+      {
+        "id": "corp-4",
+        "title": "Client Entertainment",
+        "desc": "Premium dining experiences for client meetings, board dinners, and hospitality events."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Let's Plan Your Event Together",
+    "subheading": "Tell us about your event and we'll craft a bespoke catering proposal within 24 hours.",
+    "button": "Request a Quote"
+  }
+}

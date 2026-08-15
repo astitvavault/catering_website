@@ -1,0 +1,152 @@
+{
+  "hero": {
+    "headline": "Where Every Dish",
+    "headline2": "Tells a Story.",
+    "subheading": "Authentic Indian & Hakka Chinese catering for weddings, corporate events, and every celebration worth remembering. Bespoke menus. Flawless service. Memories that last.",
+    "cta1": "Request a Quote",
+    "cta2": "Explore Our Services"
+  },
+  "about": {
+    "eyebrow": "Our Story",
+    "headline": "Rooted in Tradition. Crafted for You.",
+    "body": "SWAAD was born from a simple belief — that extraordinary food transforms an event into a memory. Drawing on generations of culinary heritage, our chefs bring the depth of authentic Indian and Hakka Chinese cuisine to your table. We source the finest whole spices, the freshest produce, and the most carefully selected ingredients, then pair them with meticulous preparation and warm, attentive service. From the first consultation to the final course, every detail is handled with care — so you can be fully present in the moments that matter most.",
+    "link": "Discover Our Story"
+  },
+  "expertise": {
+    "eyebrow": "The SWAAD Difference",
+    "headline": "Crafted with Intention. Served with Pride.",
+    "items": [
+      {
+        "id": "exp-1",
+        "number": "01",
+        "title": "Authentic Recipes",
+        "description": "Every dish is rooted in genuine culinary tradition — time-tested recipes prepared with the same care and technique that have defined great Indian and Chinese cooking for generations."
+      },
+      {
+        "id": "exp-2",
+        "number": "02",
+        "title": "Premium Ingredients",
+        "description": "We never compromise on quality. From hand-ground spice blends to farm-fresh produce and premium proteins, every ingredient is chosen to deliver exceptional flavour in every bite."
+      },
+      {
+        "id": "exp-3",
+        "number": "03",
+        "title": "Complete Service",
+        "description": "We handle everything — menu design, full kitchen setup, professional service staff, and complete cleanup. You arrive as a guest at your own event and leave with nothing to worry about."
+      },
+      {
+        "id": "exp-4",
+        "number": "04",
+        "title": "Bespoke Menus",
+        "description": "No two events are alike, and neither are our menus. We collaborate closely with you to design a culinary experience that reflects your vision, your heritage, and your guests' tastes."
+      }
+    ]
+  },
+  "events": {
+    "eyebrow": "Events We Cater",
+    "headline": "Every Occasion, Perfectly Served",
+    "items": [
+      {
+        "id": "ev-1",
+        "type": "Weddings",
+        "description": "Grand receptions and intimate ceremonies, crafted with elegance"
+      },
+      {
+        "id": "ev-2",
+        "type": "Corporate Events",
+        "description": "Professional catering for meetings, launches, and conferences"
+      },
+      {
+        "id": "ev-3",
+        "type": "Birthdays & Anniversaries",
+        "description": "Milestone celebrations made extraordinary"
+      },
+      {
+        "id": "ev-4",
+        "type": "Festivals & Cultural Events",
+        "description": "Authentic flavours for community and cultural gatherings"
+      },
+      {
+        "id": "ev-5",
+        "type": "Private Parties",
+        "description": "Intimate gatherings with personalized menus and service"
+      },
+      {
+        "id": "ev-6",
+        "type": "Outdoor Events",
+        "description": "On-site catering for garden parties and outdoor venues"
+      }
+    ]
+  },
+  "cuisines": {
+    "eyebrow": "Our Cuisine",
+    "headline": "Two Great Traditions. One Exceptional Table.",
+    "items": [
+      {
+        "id": "cu-1",
+        "name": "Indian Cuisine",
+        "description": "From slow-cooked North Indian gravies and fragrant biryanis to South Indian specialties — prepared with whole spices and generations of technique."
+      },
+      {
+        "id": "cu-2",
+        "name": "Hakka Chinese",
+        "description": "Bold, wok-tossed Hakka noodles, crispy manchurian, and fiery schezwan dishes that have become a beloved staple of Indian celebrations."
+      },
+      {
+        "id": "cu-3",
+        "name": "Live Cooking Stations",
+        "description": "Dosa counters, pani puri stalls, and stir-fry woks — interactive stations that turn dining into an experience your guests will talk about."
+      },
+      {
+        "id": "cu-4",
+        "name": "BBQ & Tandoor",
+        "description": "Our traditional clay tandoor produces perfectly charred tikkas, seekh kebabs, and fresh naans that fill the air with irresistible smoky aromas."
+      },
+      {
+        "id": "cu-5",
+        "name": "Vegetarian Specialties",
+        "description": "A rich, diverse selection of vegetarian dishes — from paneer delicacies and dal preparations to vibrant sabzis and street food favourites."
+      },
+      {
+        "id": "cu-6",
+        "name": "Desserts & Beverages",
+        "description": "Gulab jamun, kheer, mango kulfi, and a curated beverage service — the perfect sweet finale to an extraordinary dining experience."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Client Stories",
+    "headline": "Moments That Last a Lifetime",
+    "items": [
+      {
+        "id": "test-1",
+        "quote": "SWAAD transformed our wedding reception into something truly extraordinary. Every guest was raving about the biryani and the live chaat station — the food was the highlight of the entire evening. We could not have asked for more.",
+        "name": "Priya & Arjun Sharma",
+        "event": "Wedding Reception — 350 Guests"
+      },
+      {
+        "id": "test-2",
+        "quote": "We engaged SWAAD for our annual corporate gala and they delivered beyond every expectation. The setup was immaculate, the team was professional and discreet, and the food quality was genuinely restaurant-level. Exceptional.",
+        "name": "Rajesh Mehta",
+        "event": "Corporate Gala — 200 Guests"
+      },
+      {
+        "id": "test-3",
+        "quote": "From our very first consultation to the last dessert served, SWAAD handled everything with grace and precision. Our Diwali celebration was the most talked-about event in our community. We will absolutely book them again.",
+        "name": "Sunita Patel",
+        "event": "Diwali Festival — 500 Guests"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Our Gallery",
+    "headline": "A Feast for the Eyes",
+    "cta": "View Full Gallery"
+  },
+  "booking": {
+    "headline": "Your Event Deserves the Very Best.",
+    "subheading": "Tell us about your celebration and we'll craft a personalised catering proposal within 24 hours. No obligation — just a conversation about making your event extraordinary.",
+    "cta": "Request a Catering Quote",
+    "whatsapp": "Chat on WhatsApp"
+  }
+}

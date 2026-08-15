@@ -1,0 +1,394 @@
+{
+  "hero": {
+    "eyebrow": "Our Menu",
+    "headline": "A Feast of Authentic Flavours",
+    "subheading": "Every dish is crafted with time-honoured recipes, premium ingredients, and a deep passion for authentic cuisine. Browse our menu categories and let us create a bespoke dining experience for your celebration."
+  },
+  "filterNote": "All menu items are available in customized combinations. Dietary preferences, portion sizes, and special requests are always accommodated.",
+  "categories": [
+    {
+      "id": "cat-indian",
+      "slug": "indian",
+      "label": "Indian Cuisine",
+      "tag": "Signature",
+      "description": "Rich, aromatic, and deeply satisfying — our Indian cuisine menu spans the breadth of the subcontinent's culinary heritage, from slow-simmered Mughlai gravies to vibrant street-food classics.",
+      "image": "/airo-assets/images/pages/menu/cat-indian",
+      "items": [
+        {
+          "id": "ind-1",
+          "name": "Dal Makhani",
+          "desc": "Whole black lentils slow-cooked overnight in a rich, buttery tomato gravy with cream and a touch of fenugreek",
+          "veg": true
+        },
+        {
+          "id": "ind-2",
+          "name": "Paneer Butter Masala",
+          "desc": "Soft cottage cheese cubes in a velvety tomato-cashew sauce, finished with cream and aromatic spices",
+          "veg": true
+        },
+        {
+          "id": "ind-3",
+          "name": "Dum Chicken Biryani",
+          "desc": "Fragrant long-grain basmati layered with saffron-marinated chicken, slow-cooked on dum for maximum depth of flavour",
+          "veg": false
+        },
+        {
+          "id": "ind-4",
+          "name": "Mutton Rogan Josh",
+          "desc": "Tender bone-in lamb slow-braised in a Kashmiri spice blend of dried red chillies, fennel, and whole aromatics",
+          "veg": false
+        },
+        {
+          "id": "ind-5",
+          "name": "Chole Bhature",
+          "desc": "Boldly spiced Punjabi chickpea curry served with pillowy deep-fried bhature — a crowd favourite at every event",
+          "veg": true
+        },
+        {
+          "id": "ind-6",
+          "name": "Palak Paneer",
+          "desc": "Fresh cottage cheese in a smooth, vibrant spinach sauce seasoned with cumin, garlic, and a hint of cream",
+          "veg": true
+        },
+        {
+          "id": "ind-7",
+          "name": "Butter Chicken",
+          "desc": "Tandoor-kissed chicken in a silky, mildly spiced tomato-butter sauce — the dish that defines Indian catering",
+          "veg": false
+        },
+        {
+          "id": "ind-8",
+          "name": "Vegetable Dum Biryani",
+          "desc": "Seasonal vegetables and whole spices layered with saffron-infused basmati, sealed and slow-cooked on dum",
+          "veg": true
+        },
+        {
+          "id": "ind-9",
+          "name": "Shahi Paneer",
+          "desc": "Cottage cheese in a royal Mughlai gravy of cashews, cream, and fragrant whole spices — rich and indulgent",
+          "veg": true
+        },
+        {
+          "id": "ind-10",
+          "name": "Lamb Keema Matar",
+          "desc": "Minced lamb cooked with green peas, ginger, garlic, and a warming blend of whole spices",
+          "veg": false
+        },
+        {
+          "id": "ind-11",
+          "name": "Aloo Gobi Masala",
+          "desc": "Cauliflower and potato dry-cooked with turmeric, cumin, and fresh coriander — a classic North Indian staple",
+          "veg": true
+        },
+        {
+          "id": "ind-12",
+          "name": "Chicken Korma",
+          "desc": "Tender chicken braised in a fragrant, mildly spiced yoghurt and almond sauce with rose water and saffron",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "id": "cat-chinese",
+      "slug": "hakka-chinese",
+      "label": "Hakka Chinese",
+      "tag": "Popular",
+      "description": "Authentic Hakka Chinese cuisine — bold, wok-tossed, and perfectly spiced. Our Indo-Chinese classics are a beloved staple of every Indian celebration.",
+      "image": "/airo-assets/images/pages/menu/cat-chinese",
+      "items": [
+        {
+          "id": "chi-1",
+          "name": "Hakka Noodles",
+          "desc": "Wok-tossed egg noodles with crisp vegetables, soy sauce, and a hint of chilli — the definitive Hakka classic",
+          "veg": true
+        },
+        {
+          "id": "chi-2",
+          "name": "Chicken Manchurian",
+          "desc": "Crispy battered chicken tossed in a tangy, spicy Manchurian sauce with spring onions and bell peppers",
+          "veg": false
+        },
+        {
+          "id": "chi-3",
+          "name": "Veg Fried Rice",
+          "desc": "Wok-tossed long-grain rice with fresh vegetables, eggs, soy, and sesame oil — light, fragrant, and satisfying",
+          "veg": true
+        },
+        {
+          "id": "chi-4",
+          "name": "Chilli Paneer",
+          "desc": "Crispy cottage cheese cubes tossed in a bold chilli-garlic-soy sauce with capsicum and spring onions",
+          "veg": true
+        },
+        {
+          "id": "chi-5",
+          "name": "Schezwan Noodles",
+          "desc": "Fiery wok-tossed noodles in house-made Schezwan sauce with vegetables and a smoky chilli finish",
+          "veg": true
+        },
+        {
+          "id": "chi-6",
+          "name": "Honey Chilli Chicken",
+          "desc": "Double-fried chicken strips glazed in a sticky honey-chilli sauce — crispy outside, juicy inside",
+          "veg": false
+        },
+        {
+          "id": "chi-7",
+          "name": "Crispy Veg Spring Rolls",
+          "desc": "Golden-fried rolls packed with seasoned cabbage, carrots, and glass noodles, served with sweet chilli dip",
+          "veg": true
+        },
+        {
+          "id": "chi-8",
+          "name": "Manchow Soup",
+          "desc": "Thick, deeply flavoured soup with vegetables, tofu, and crispy fried noodles — a warming starter favourite",
+          "veg": true
+        },
+        {
+          "id": "chi-9",
+          "name": "Chicken Fried Rice",
+          "desc": "Wok-tossed rice with tender chicken, egg, spring onions, and a rich soy-sesame seasoning",
+          "veg": false
+        },
+        {
+          "id": "chi-10",
+          "name": "Gobi Manchurian",
+          "desc": "Crispy cauliflower florets in a tangy, spiced Manchurian sauce — a vegetarian showstopper",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "cat-live",
+      "slug": "live-stations",
+      "label": "Live Cooking Stations",
+      "tag": "Interactive",
+      "description": "An immersive culinary theatre experience — our live stations bring the art of cooking to your guests in real time, creating moments as memorable as the food itself.",
+      "image": "/airo-assets/images/pages/menu/cat-live-station",
+      "items": [
+        {
+          "id": "liv-1",
+          "name": "Pani Puri Station",
+          "desc": "Live chaat station with freshly fried puris, spiced tamarind water, and a full array of toppings — always a crowd magnet",
+          "veg": true
+        },
+        {
+          "id": "liv-2",
+          "name": "Masala Dosa Station",
+          "desc": "Crispy golden dosas made to order, filled with spiced potato masala and served with sambar and three chutneys",
+          "veg": true
+        },
+        {
+          "id": "liv-3",
+          "name": "Chaat Counter",
+          "desc": "Bhel puri, sev puri, papdi chaat, and aloo tikki freshly assembled with chutneys and toppings to order",
+          "veg": true
+        },
+        {
+          "id": "liv-4",
+          "name": "Live Wok Station",
+          "desc": "Guests choose their protein, vegetables, and sauce — stir-fried to order in a blazing wok right before their eyes",
+          "veg": false
+        },
+        {
+          "id": "liv-5",
+          "name": "Kulfi & Falooda Bar",
+          "desc": "Traditional Indian ice cream served on sticks or in glasses with rose syrup, basil seeds, and vermicelli",
+          "veg": true
+        },
+        {
+          "id": "liv-6",
+          "name": "Pasta Station",
+          "desc": "Made-to-order pasta with choice of penne or fusilli, three sauces, and a selection of toppings and proteins",
+          "veg": false
+        },
+        {
+          "id": "liv-7",
+          "name": "Frankie & Kathi Roll Station",
+          "desc": "Freshly rolled kathi rolls with choice of paneer, chicken, or egg filling, wrapped in a flaky paratha",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "id": "cat-bbq",
+      "slug": "bbq-tandoor",
+      "label": "BBQ & Tandoor",
+      "tag": "Chef's Special",
+      "description": "Smoky, chargrilled perfection from our traditional clay tandoor — the centrepiece of every SWAAD catering event and a highlight guests never forget.",
+      "image": "/airo-assets/images/pages/menu/cat-bbq",
+      "items": [
+        {
+          "id": "bbq-1",
+          "name": "Chicken Tikka",
+          "desc": "Bone-in chicken pieces marinated overnight in yoghurt, ginger-garlic, and spices, grilled in the tandoor until perfectly charred",
+          "veg": false
+        },
+        {
+          "id": "bbq-2",
+          "name": "Seekh Kebab",
+          "desc": "Minced lamb and beef blended with fresh herbs, green chilli, and spices, shaped on skewers and grilled over live charcoal",
+          "veg": false
+        },
+        {
+          "id": "bbq-3",
+          "name": "Paneer Tikka",
+          "desc": "Thick-cut cottage cheese marinated in spiced yoghurt, grilled with capsicum, onion, and tomato in the tandoor",
+          "veg": true
+        },
+        {
+          "id": "bbq-4",
+          "name": "Tandoori Prawns",
+          "desc": "Jumbo tiger prawns marinated in a fiery red spice paste and grilled in the tandoor — smoky, succulent, and spectacular",
+          "veg": false
+        },
+        {
+          "id": "bbq-5",
+          "name": "Malai Chicken Tikka",
+          "desc": "Tender chicken marinated in cream, cheese, and mild spices — a delicate, melt-in-the-mouth tandoor preparation",
+          "veg": false
+        },
+        {
+          "id": "bbq-6",
+          "name": "Veg Seekh Kebab",
+          "desc": "Spiced paneer, potato, and vegetable mixture shaped on skewers and grilled over charcoal with a smoky finish",
+          "veg": true
+        },
+        {
+          "id": "bbq-7",
+          "name": "Tandoori Roti & Garlic Naan",
+          "desc": "Freshly baked whole-wheat rotis and buttery garlic naans pulled straight from the clay tandoor",
+          "veg": true
+        },
+        {
+          "id": "bbq-8",
+          "name": "Achari Lamb Chops",
+          "desc": "Frenched lamb chops marinated in pickling spices and yoghurt, grilled to a perfect blush — a premium showpiece",
+          "veg": false
+        }
+      ]
+    },
+    {
+      "id": "cat-desserts",
+      "slug": "desserts",
+      "label": "Desserts",
+      "tag": "Sweet Endings",
+      "description": "Indulge in a curated selection of traditional Indian sweets and contemporary desserts — the perfect, memorable finale to an extraordinary dining experience.",
+      "image": "/airo-assets/images/pages/menu/cat-desserts",
+      "items": [
+        {
+          "id": "des-1",
+          "name": "Gulab Jamun",
+          "desc": "Soft, pillowy milk-solid dumplings soaked in rose-scented saffron sugar syrup — warm, fragrant, and irresistible",
+          "veg": true
+        },
+        {
+          "id": "des-2",
+          "name": "Rasmalai",
+          "desc": "Delicate cottage cheese patties poached in milk and served in chilled saffron-cardamom cream with pistachios",
+          "veg": true
+        },
+        {
+          "id": "des-3",
+          "name": "Saffron Kheer",
+          "desc": "Slow-cooked creamy rice pudding infused with saffron, cardamom, and topped with toasted almonds and rose petals",
+          "veg": true
+        },
+        {
+          "id": "des-4",
+          "name": "Gajar Halwa",
+          "desc": "Slow-cooked grated carrot pudding with pure ghee, full-fat milk, cardamom, and a garnish of cashews and raisins",
+          "veg": true
+        },
+        {
+          "id": "des-5",
+          "name": "Crispy Jalebi",
+          "desc": "Freshly fried spiral pastries soaked in warm saffron sugar syrup — best enjoyed straight from the pan",
+          "veg": true
+        },
+        {
+          "id": "des-6",
+          "name": "Alphonso Mango Kulfi",
+          "desc": "Traditional dense Indian ice cream made with reduced milk and fresh Alphonso mango pulp, served on a stick",
+          "veg": true
+        },
+        {
+          "id": "des-7",
+          "name": "Shahi Tukda",
+          "desc": "Fried bread soaked in saffron-infused rabri, garnished with silver leaf and crushed pistachios — a Mughlai classic",
+          "veg": true
+        },
+        {
+          "id": "des-8",
+          "name": "Moong Dal Halwa",
+          "desc": "Slow-roasted split moong lentil pudding cooked in ghee with sugar, cardamom, and topped with slivered almonds",
+          "veg": true
+        }
+      ]
+    },
+    {
+      "id": "cat-beverages",
+      "slug": "beverages",
+      "label": "Beverages",
+      "tag": "Refreshing",
+      "description": "A curated selection of traditional Indian drinks and contemporary beverages — crafted to refresh, complement every course, and delight every guest.",
+      "image": "/airo-assets/images/pages/menu/cat-beverages",
+      "items": [
+        {
+          "id": "bev-1",
+          "name": "Alphonso Mango Lassi",
+          "desc": "Thick, chilled yoghurt drink blended with fresh Alphonso mango pulp, a pinch of cardamom, and a touch of honey",
+          "veg": true
+        },
+        {
+          "id": "bev-2",
+          "name": "Rose & Basil Sharbat",
+          "desc": "Chilled rose-infused drink with swollen basil seeds, a squeeze of lime, and a hint of kewra water",
+          "veg": true
+        },
+        {
+          "id": "bev-3",
+          "name": "Masala Chai",
+          "desc": "Freshly brewed spiced Indian tea with whole ginger, green cardamom, cinnamon, and full-fat milk",
+          "veg": true
+        },
+        {
+          "id": "bev-4",
+          "name": "Mint Lime Soda",
+          "desc": "Freshly squeezed lime with sparkling water, crushed mint, black salt, and a choice of sweet or salted",
+          "veg": true
+        },
+        {
+          "id": "bev-5",
+          "name": "Thandai",
+          "desc": "Traditional chilled milk drink blended with almonds, fennel, rose petals, and warming spices — a festive favourite",
+          "veg": true
+        },
+        {
+          "id": "bev-6",
+          "name": "Aam Panna",
+          "desc": "Tangy raw mango cooler with roasted cumin, black salt, and fresh mint — a perfect summer refresher",
+          "veg": true
+        },
+        {
+          "id": "bev-7",
+          "name": "Jaljeera",
+          "desc": "Cumin-spiced tamarind water with black salt, ginger, and fresh coriander — a classic digestive aperitif",
+          "veg": true
+        },
+        {
+          "id": "bev-8",
+          "name": "Salted Lassi",
+          "desc": "Thick churned yoghurt with roasted cumin, black salt, and fresh mint — cooling, savoury, and deeply satisfying",
+          "veg": true
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "headline": "Can't Find What You're Looking For?",
+    "subheading": "Our menu is fully customizable. Share your vision, dietary requirements, and event details — we'll craft a bespoke menu just for you.",
+    "button": "Request a Customized Menu",
+    "note": "Every menu is tailored to your event. Our team will work closely with you to finalize the perfect selection."
+  }
+}
