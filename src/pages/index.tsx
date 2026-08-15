@@ -154,7 +154,7 @@ export default function HomePage() {
           aria-label="Hero section"
         >
           <img
-            src="public\assets\91mOKMcvHUL._AC_UF894,1000_QL80_.jpg"
+            src="/assets/91mOKMcvHUL._AC_UF894,1000_QL80_.jpg"
             alt="Elegant Indian cuisine catering spread — SWAAD Catering Services"
             className="absolute inset-0 w-full h-full object-cover"
             fetchPriority="high"
